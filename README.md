@@ -23,7 +23,7 @@
 <img width="1350" alt="Dashboard 2" src="https://github.com/runpumeng/mfe/assets/112782995/b2353ac4-4093-4f8a-a1a9-34dd48be6ae2">
 
 ## About this project
-### Use microfrontends to architect an app that dozens of teams can work on at the same time.
+* Use microfrontends to architect an app that dozens of teams can work on at the same time.
 ### Structure the apps to scale to millions of users.
 ### Divide a monolithic app into multiple sub-apps.
 ### Coordinate data exchanged between this microfrontends.

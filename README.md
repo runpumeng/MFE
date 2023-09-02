@@ -24,13 +24,13 @@
 
 ## About this project
 * Use microfrontends to architect an app that dozens of teams can work on at the same time.
-### Structure the apps to scale to millions of users.
-### Divide a monolithic app into multiple sub-apps.
-### Coordinate data exchanged between this microfrontends.
-### Apply a production-style workflow with a full CI/CD pipeline.
-### Deploy the microfrontends to Amazon Web Services with CloudFront.
-### Isolate rules styling by applying CSS-scoping techniques.
-### Judge whether microfrontends are an appropriate choice for this application.
+* Structure the apps to scale to millions of users.
+* Divide a monolithic app into multiple sub-apps.
+* Coordinate data exchanged between this microfrontends.
+* Apply a production-style workflow with a full CI/CD pipeline.
+* Deploy the microfrontends to Amazon Web Services with CloudFront.
+* Isolate rules styling by applying CSS-scoping techniques.
+* Judge whether microfrontends are an appropriate choice for this application.
 
 
 
